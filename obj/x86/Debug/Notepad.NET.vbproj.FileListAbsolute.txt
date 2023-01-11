@@ -1,0 +1,12 @@
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\x86\Debug\Notepad Reborn.exe.config
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\x86\Debug\Notepad Reborn.exe
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\x86\Debug\Notepad Reborn.pdb
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\x86\Debug\Notepad Reborn.xml
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad.NET.vbprojResolveAssemblyReference.cache
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad_Reborn.FindDialog.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad_Reborn.frmMain.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad_Reborn.Resources.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad.NET.vbproj.GenerateResource.Cache
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad Reborn.exe
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad Reborn.xml
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\x86\Debug\Notepad Reborn.pdb

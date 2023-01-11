@@ -1,0 +1,34 @@
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\bin\Debug\Notepad.NET.exe
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\bin\Debug\Notepad.NET.pdb
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\bin\Debug\Notepad.NET.xml
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.Form1.resources
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.Resources.resources
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.vbproj.GenerateResource.Cache
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.exe
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.xml
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.pdb
+E:\Documents and Settings\Anshul.ANSHUL-R\Local Settings\Application Data\Temporary Projects\Notepad.NET\obj\Debug\Notepad.NET.frmMain.resources
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.exe
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.xml
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.pdb
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\bin\Debug\Notepad.NET.exe
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\bin\Debug\Notepad.NET.pdb
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\bin\Debug\Notepad.NET.xml
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.frmMain.resources
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.Resources.resources
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.vbproj.GenerateResource.Cache
+E:\Documents and Settings\Anshul.ANSHUL-R\My Documents\Visual Studio 2008\Projects\Notepad.NET\Notepad.NET\obj\Debug\Notepad.NET.FindDialog.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.exe
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.xml
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.pdb
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\Debug\Notepad.NET.exe
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\Debug\Notepad.NET.pdb
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\Debug\Notepad.NET.xml
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.vbprojResolveAssemblyReference.cache
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.FindDialog.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.frmMain.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.Resources.resources
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\obj\Debug\Notepad.NET.vbproj.GenerateResource.Cache
+C:\Users\Teddy Martin\Desktop\Notepad.NET_source_V2\bin\Debug\Notepad Reborn.exe.config
